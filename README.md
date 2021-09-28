@@ -52,12 +52,12 @@ Here I have solved some LeetCode problems.
 122. Best Time to Buy and Sell Stock II
 125. Valid Palindrome
 
-394. Decode String 	: using stacks , one stack for string and another stack for integers
-459. Repeated Substring Pattern	:i goes from 0-n/2 then add each char to new string and (string % len(new) ==0 then new.repeat(time) == string)
-509. Fibonacci Number 	: a=0,b=1; for 2-N ; t=a,a=b,b=b+t;
-628. Maximum Product of Three Numbers	: min1,min2,max1,max2,max3
+394. Decode String 	
+459. Repeated Substring Pattern	
+509. Fibonacci Number 	
+628. Maximum Product of Three Numbers	
 633. Sum of Square Numbers
-637. Average of Levels in Binary Tree 	: current , next
+637. Average of Levels in Binary Tree 
 697. Degree of an Array
 989. Add to Array-Form of Integer
 993. Cousins in Binary Tree
