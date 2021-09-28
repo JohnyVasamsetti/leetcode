@@ -1,3 +1,7 @@
+# LeetCode-Solutions
+Here I have solved some LeetCode problems.
+
+
 1. Two Sum      	: Map , complement
 2. Add Two Numbers	: (l1 != null)?l1.val:0
 3. Longest Substring Without Repeating Characters 	: when there is a dupe then delete characters to the first occurrence of that character.
